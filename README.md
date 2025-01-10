@@ -1,1 +1,2 @@
 # SQL-MAP
+This repository contains a personal project demonstrating the use of sqlmap to perform SQL injection attacks on a deliberately vulnerable web application (DVWA) hosted on a Linux environment. I utilized Burp Suite to intercept and capture the HTTP request, then leveraged sqlmap to automate the SQL injection and exploit the vulnerability. The project highlights identifying vulnerabilities, executing attacks, and understanding the risks associated with insecure web applications.
